@@ -1,0 +1,15 @@
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.csprojAssemblyReference.cache
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.AssemblyInfoInputs.cache
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.AssemblyInfo.cs
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\bin\Debug\net5.0\AG_CategoryProducts.Data.deps.json
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\bin\Debug\net5.0\AG_CategoryProducts.Data.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\bin\Debug\net5.0\ref\AG_CategoryProducts.Data.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\bin\Debug\net5.0\AG_CategoryProducts.Data.pdb
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\bin\Debug\net5.0\AG_CategoryProducts.Models.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\bin\Debug\net5.0\AG_CategoryProducts.Models.pdb
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.csproj.CopyComplete
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\ref\AG_CategoryProducts.Data.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.Data\obj\Debug\net5.0\AG_CategoryProducts.Data.pdb
