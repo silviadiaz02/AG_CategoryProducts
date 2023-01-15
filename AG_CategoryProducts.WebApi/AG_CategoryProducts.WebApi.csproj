@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AG_CategoryProducts\AG_CategoryProducts.csproj" />
+    <ProjectReference Include="..\AG_CategoryProducts.Bussines\AG_CategoryProducts.Bussines.csproj" />
   </ItemGroup>
 
 </Project>

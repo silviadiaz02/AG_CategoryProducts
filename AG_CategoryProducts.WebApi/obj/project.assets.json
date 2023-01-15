@@ -1634,7 +1634,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "AG_CategoryProducts/1.0.0": {
+      "AG_CategoryProducts.Bussines/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -1642,10 +1642,10 @@
           "AG_CategoryProducts.Models": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/AG_CategoryProducts.dll": {}
+          "bin/placeholder/AG_CategoryProducts.Bussines.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AG_CategoryProducts.dll": {}
+          "bin/placeholder/AG_CategoryProducts.Bussines.dll": {}
         }
       },
       "AG_CategoryProducts.Data/1.0.0": {
@@ -6335,10 +6335,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "AG_CategoryProducts/1.0.0": {
+    "AG_CategoryProducts.Bussines/1.0.0": {
       "type": "project",
-      "path": "../AG_CategoryProducts/AG_CategoryProducts.csproj",
-      "msbuildProject": "../AG_CategoryProducts/AG_CategoryProducts.csproj"
+      "path": "../AG_CategoryProducts.Bussines/AG_CategoryProducts.Bussines.csproj",
+      "msbuildProject": "../AG_CategoryProducts.Bussines/AG_CategoryProducts.Bussines.csproj"
     },
     "AG_CategoryProducts.Data/1.0.0": {
       "type": "project",
@@ -6353,7 +6353,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "AG_CategoryProducts >= 1.0.0",
+      "AG_CategoryProducts.Bussines >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Abstractions >= 2.2.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -6385,8 +6385,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Users\\Usuario\\Documents\\Silvia\\auto germana\\Backend\\AG_CategoryProducts\\AG_CategoryProducts.csproj": {
-              "projectPath": "D:\\Users\\Usuario\\Documents\\Silvia\\auto germana\\Backend\\AG_CategoryProducts\\AG_CategoryProducts.csproj"
+            "D:\\Users\\Usuario\\Documents\\Silvia\\auto germana\\Backend\\AG_CategoryProducts.Bussines\\AG_CategoryProducts.Bussines.csproj": {
+              "projectPath": "D:\\Users\\Usuario\\Documents\\Silvia\\auto germana\\Backend\\AG_CategoryProducts.Bussines\\AG_CategoryProducts.Bussines.csproj"
             }
           }
         }

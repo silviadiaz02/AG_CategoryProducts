@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AG_CategoryProducts.Data\AG_CategoryProducts.Data.csproj" />
+    <ProjectReference Include="..\AG_CategoryProducts.Models\AG_CategoryProducts.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -27,7 +27,6 @@ D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebAp
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.Data.dll
-D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.Models.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.csprojAssemblyReference.cache
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.GeneratedMSBuildEditorConfig.editorconfig
@@ -63,7 +62,6 @@ D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebAp
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.WebApi.pdb
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.WebApi.Views.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.WebApi.Views.pdb
-D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.pdb
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.Data.pdb
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.Models.pdb
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.Views.pdb
@@ -72,8 +70,10 @@ D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebAp
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\ref\AG_CategoryProducts.WebApi.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.pdb
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.genruntimeconfig.cache
-D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.Bussines.dll
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\bin\Debug\net5.0\AG_CategoryProducts.Bussines.pdb
+D:\Users\Usuario\Documents\Silvia\auto germana\Backend\AG_CategoryProducts.WebApi\obj\Debug\net5.0\AG_CategoryProducts.WebApi.MvcApplicationPartsAssemblyInfo.cs

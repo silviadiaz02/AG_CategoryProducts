@@ -1,5 +1,5 @@
 ﻿using AG_CategoryProducts.Models;
-using AG_CategoryProducts.WebApi.Models;
+using AG_CategoryProducts.Bussines;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;

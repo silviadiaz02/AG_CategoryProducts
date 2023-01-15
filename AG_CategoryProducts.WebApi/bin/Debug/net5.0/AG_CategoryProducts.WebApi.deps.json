@@ -25,7 +25,7 @@
     ".NETCoreApp,Version=v5.0": {
       "AG_CategoryProducts.WebApi/1.0.0": {
         "dependencies": {
-          "AG_CategoryProducts": "1.0.0",
+          "AG_CategoryProducts.Bussines": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Swashbuckle.AspNetCore": "6.5.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -1363,16 +1363,16 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "AG_CategoryProducts/1.0.0": {
+      "AG_CategoryProducts.Bussines/1.0.0": {
         "dependencies": {
           "AG_CategoryProducts.Data": "1.0.0",
           "AG_CategoryProducts.Models": "1.0.0"
         },
         "runtime": {
-          "AG_CategoryProducts.dll": {}
+          "AG_CategoryProducts.Bussines.dll": {}
         },
         "compile": {
-          "AG_CategoryProducts.dll": {}
+          "AG_CategoryProducts.Bussines.dll": {}
         }
       },
       "AG_CategoryProducts.Data/1.0.0": {
@@ -3850,7 +3850,7 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "AG_CategoryProducts/1.0.0": {
+    "AG_CategoryProducts.Bussines/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
