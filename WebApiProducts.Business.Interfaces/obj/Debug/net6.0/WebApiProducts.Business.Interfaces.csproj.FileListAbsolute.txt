@@ -1,0 +1,17 @@
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Business.Interfaces.deps.json
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Business.Interfaces.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Business.Interfaces.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Data.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Entities.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Data.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\bin\Debug\net6.0\WebApiProducts.Entities.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.csproj.AssemblyReference.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.AssemblyInfoInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.AssemblyInfo.cs
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.csproj.CopyComplete
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\refint\WebApiProducts.Business.Interfaces.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\WebApiProducts.Business.Interfaces.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Business.Interfaces\obj\Debug\net6.0\ref\WebApiProducts.Business.Interfaces.dll

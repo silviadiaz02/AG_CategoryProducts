@@ -1,0 +1,17 @@
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Repository.Interfaces.deps.json
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Repository.Interfaces.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Repository.Interfaces.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Data.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Entities.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Data.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\bin\Debug\net6.0\WebApiProducts.Entities.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.AssemblyInfo.cs
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.csproj.CopyComplete
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\refint\WebApiProducts.Repository.Interfaces.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\WebApiProducts.Repository.Interfaces.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Repository.Interfaces\obj\Debug\net6.0\ref\WebApiProducts.Repository.Interfaces.dll

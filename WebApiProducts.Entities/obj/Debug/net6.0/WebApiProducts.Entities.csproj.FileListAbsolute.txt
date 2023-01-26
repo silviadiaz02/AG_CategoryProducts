@@ -1,0 +1,14 @@
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\bin\Debug\net6.0\WebApiProducts.Entities.deps.json
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\bin\Debug\net6.0\WebApiProducts.Entities.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\bin\Debug\net6.0\WebApiProducts.Entities.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.csproj.AssemblyReference.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.Resources.Messages.resources
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.csproj.GenerateResource.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.AssemblyInfoInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.AssemblyInfo.cs
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.csproj.CoreCompileInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\refint\WebApiProducts.Entities.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\WebApiProducts.Entities.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Entities\obj\Debug\net6.0\ref\WebApiProducts.Entities.dll

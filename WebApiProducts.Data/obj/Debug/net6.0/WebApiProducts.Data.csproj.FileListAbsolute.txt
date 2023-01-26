@@ -1,0 +1,14 @@
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\bin\Debug\net6.0\WebApiProducts.Data.deps.json
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\bin\Debug\net6.0\WebApiProducts.Data.runtimeconfig.json
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\bin\Debug\net6.0\WebApiProducts.Data.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\bin\Debug\net6.0\WebApiProducts.Data.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.csproj.AssemblyReference.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.AssemblyInfoInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.AssemblyInfo.cs
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.csproj.CoreCompileInputs.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\refint\WebApiProducts.Data.dll
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.pdb
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\WebApiProducts.Data.genruntimeconfig.cache
+C:\Users\diegofm\Documents\azure\Repos\WebApiProducts\WebApiProducts.Data\obj\Debug\net6.0\ref\WebApiProducts.Data.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwt+OLXHLIFuQBkoLEsor3pjPHCenrZ5TGJiP3pGRRHn87rLGmZ8yrh6rMoY37frd1HzkQLCniWIMs3b1OQnxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diegofm\\Documents\\azure\\Repos\\WebApiProducts\\WebApiProducts.Entities\\WebApiProducts.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diegofm\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\diegofm\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\diegofm\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
